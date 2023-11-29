@@ -104,11 +104,11 @@ label.fa-search{
   color: #fff;
   text-align: center;
 }
-.ex_right > h3{
+.ex_right > h2{
   font-size: 34px;
   font-weight: 300;
 }
-.ex_right > h3 > img{
+.ex_right > h2 > img{
   width: 60px;
   padding-bottom: 10px;
 }

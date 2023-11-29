@@ -178,11 +178,11 @@
     text-align: center;
   }
   .ex_right{padding: 20px 0 50px 0;}
-  .ex_right > h3{
+  .ex_right > h2{
     font-size: 1.6rem;
     font-weight: 300;
   }
-  .ex_right > h3 > img {width: 50px;}
+  .ex_right > h2 > img {width: 50px;}
   .free_ex > article > img{
     float: none;
     width: 75%;
