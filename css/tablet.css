@@ -73,9 +73,6 @@
   address p:last-of-type{float: none;}
   .a_info{padding-bottom: 0;}
 
-  /* 1. 인트로 */
-  .mySwiper img{height: 600px;}
-
   /* 2. 무료체험 */
   .free_ex{height: 370px;}
   .free_ex > article{width: 100%;}

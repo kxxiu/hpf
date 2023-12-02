@@ -87,6 +87,9 @@ label.fa-search{
 .sub a{font-size: 14px;}
 .sub a:hover{text-decoration: underline;}
 
+  /* 1. 인트로 */
+  main .m_slide img{height: 70vh;}
+
 /* 2. 무료체험 */
 .free_ex > article{
   width: 1200px;height: 490px;
